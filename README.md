@@ -6,7 +6,7 @@
 </div> 
 <br>
 
-> Para ver o projeto rodando você pode acessar este [Link](https://stanley-felix-bergamo.github.io/Projeto-AJAX/).
+> Para ver o projeto rodando você pode acessar este [Link](https://stanley-felix-bergamo.github.io/Projeto-Github-Ajax/).
 
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
