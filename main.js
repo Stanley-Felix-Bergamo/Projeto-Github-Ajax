@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const seguindo = document.getElementById('seguindo');
     const avatar = document.getElementById('avatar');
     const link = document.getElementById('link');
-
+    
+    try {
     fetch('https://api.github.com/users/Stanley-Felix-Bergamo')
         .then(function (resposta) {
             return resposta.json();
@@ -23,5 +24,10 @@ document.addEventListener('DOMContentLoaded', function () {
             link.href = json.html_url;
 
         })
+} catch (erro) {
+    console.log(erro)
+}
 
-})
+
+
+});
